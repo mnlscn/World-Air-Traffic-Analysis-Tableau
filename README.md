@@ -1,6 +1,5 @@
 
 # Data visualization project on international flight routes
-### Made with Tableau
 
 
 
